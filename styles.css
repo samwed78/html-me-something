@@ -1,0 +1,61 @@
+body {
+    
+    background-color: rgb(230, 140, 107);
+}
+    h1 {
+    color: rgb(107, 0, 14);
+    font-family: Trebuchet MS;
+    text-align: center;
+  }
+  #G1 {
+      font-size: 305%;
+  }
+  h2 {
+    color: rgb(107, 0, 14);
+    font-family: Trebuchet MS;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 675px;
+
+}
+
+  
+  h3 {
+    color: rgb(107, 0, 14);
+    font-family: Trebuchet MS;
+    text-align: center;
+  }
+
+  h4 {
+    color: rgb(107, 0, 14);
+    font-family: Trebuchet MS;
+    text-align: center;
+  }
+
+  p {
+    background-color: rgb(230, 140, 107);
+    color: rgb(4, 59, 59);
+    font-family: Georgia;
+    border: 3px solid rgb(36, 91, 99);
+    padding: 30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+      
+  }
+
+.section {
+      background-color: aqua;
+  }
+
+.link {
+    font-family: Trebuchet MS;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 865px;
+    font-size: larger;
+}
